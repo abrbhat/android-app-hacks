@@ -1,0 +1,7 @@
+There exists only a single water source in the arena. While moving around, you want to be sure to find your way to it from wherever you are. You are provided with the location of that water source. 
+
+App: Just a Damn Compass
+Link to app: https://f-droid.org/repository/browse/?fdid=uk.co.jarofgreen.JustADamnCompass&fdpage=11
+Link to Source Code: https://github.com/jarofgreen/Just-A-Damn-Compass
+Task: Hack the app to make the compass point towards the water source always.
+Location of the water source: 26.9260° N, 75.8235° E

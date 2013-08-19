@@ -1,0 +1,9 @@
+The Hunger Games
+
+You were chosen as an tribute from your district for the 74th Annual Hunger Games. Now you are in the arena, an island with thick dense forests.
+You have been provided with an Android Smartphone and a laptop which can only run the IDE. Fortunately for you, an Android Smartphone and IDE are to you what Bow and Arrow were for Katniss.
+Though there are only a few apps on your Smartphone, their source code exists on your laptop. 
+There seems to be a hope for your survival and eventually being a 'Victor'.
+
+Happy Hunger Games
+and may the odds be ever in your favour.
