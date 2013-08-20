@@ -1,0 +1,8 @@
+Author: Abhiroop Bhatnagar
+
+There is no point in using Lesser Pad hack in Androbat Cave if you have to turn on the screen to start the app.
+
+App: Null Launcher
+Link to app: https://f-droid.org/repository/browse/?fdid=com.notriddle.null_launcer&fdpage=15
+Link to source code: https://github.com/notriddle/null-launcher
+Task: Hack the app such that Lesser Pad is launched when Home Button is pressed.

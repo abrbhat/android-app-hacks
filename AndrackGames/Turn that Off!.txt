@@ -1,0 +1,8 @@
+Author: Abhiroop Bhatnagar
+
+You know there will be times when you will be running blindly through the forest in night. At that time you will want to see where you are running to but having the torch on for a very long time may drain your battery life very fast. Therefore you need a method to turn your torch On/Off very quickly without having to look at the screen.
+
+App: Torch
+Link to app: https://f-droid.org/repository/browse/?fdfilter=torch&fdid=com.colinmcdonough.android.torch
+Link to source code: http://code.google.com/p/torch/source/checkout
+Task: Hack the app to turn the torch On/Off using the proximity sensor 

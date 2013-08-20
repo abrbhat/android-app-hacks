@@ -1,0 +1,8 @@
+Author: Abhiroop Bhatnagar
+
+You figure out that sleeping on raised rock platforms is a very safe option at night. But when Sun comes up, you can seen from a distance. Therefore, you want to make sure that you wake up as soon as Sun rises.
+
+App: Alarm Klock
+Link to app: https://f-droid.org/repository/browse/?fdfilter=Alarm&fdid=com.angrydoughnuts.android.alarmclock
+Link to source code: https://code.google.com/p/kraigsandroid/source/checkout
+Task: Hack the app such that the alarm triggers when the amount of light detected by the light sensor increases above a threshold.

@@ -1,3 +1,5 @@
+Author: Abhiroop Bhatnagar
+
 There exists only a single water source in the arena. While moving around, you want to be sure to find your way to it from wherever you are. You are provided with the location of that water source. 
 
 App: Just a Damn Compass

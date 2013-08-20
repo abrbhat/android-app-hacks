@@ -1,0 +1,8 @@
+Author: Abhiroop Bhatnagar
+
+Although there is no phone network in the arena, but for some strange reason, you are getting blank calls from an unknown number. After dropping the calls many times, you decide this cannot go on. You don't want to be disturbed by these stupid calls when in a combat.
+
+App: Auto Answer
+Link to app: https://f-droid.org/repository/browse/?fdfilter=autoanswer&fdid=com.everysoft.autoanswer
+Link to source code: http://code.google.com/p/auto-answer/source/checkout
+Task: Hack the app to auto-drop all calls.

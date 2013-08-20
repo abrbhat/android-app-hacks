@@ -1,0 +1,8 @@
+Author: Abhiroop Bhatnagar
+
+You have been told about the caves that are present in the arena. They can be a very useful hiding and resting places. But these caves are also the home of Androbats. These genetically modified bats are not only deadly but also are attracted towards any artificial light. You need to a way to navigate around these caves without turning on your torch.
+
+App: Androsens
+Link to app: https://f-droid.org/repository/browse/?fdfilter=Androsens&fdid=tritop.android.androsens
+Link to source code:  https://code.google.com/p/androsens/source/list
+Task: Hack the app to change the volume based on the reading from proximity sensor. You will be holding out your phone in front of you and the volume should increase/decrease based on the phone's distance from the obstacle.

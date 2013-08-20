@@ -1,0 +1,9 @@
+Author: Abhiroop Bhatnagar
+
+You have the weapons database in your laptop. But it would be better if it were more handy.
+
+App: Petronius
+Link to app: https://f-droid.org/repository/browse/?fdfilter=Petronius&fdid=org.dyndns.ipignoli.petronius
+Link to source code: http://code.google.com/p/petronius/source/checkout
+Task: Hack the app to load and browse the weapons sqlite database.
+		Database: Andrack Games Weapons Database.sqlite

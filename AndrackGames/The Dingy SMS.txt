@@ -1,0 +1,8 @@
+Author: Abhiroop Bhatnagar
+
+Sometimes it happens that when your sponsors are very pleased with you, they ask for what item you want. They send you an SMS, and this SMS has to be replied to within a minute with the item you require. Now you figure out that it may be difficult to reply to this SMS when for example, you may be dangling from a tree.
+
+App: RingyDingyDingy
+Link to app: https://f-droid.org/repository/browse/?fdfilter=RingyDingyDingy&fdid=com.dririan.RingyDingyDingy
+Link to source code: https://github.com/dririan/ringydingydingy
+Task: Hack the app such that it replies to an SMS from a custom number with a custom editable SMS.

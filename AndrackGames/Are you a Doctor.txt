@@ -1,0 +1,8 @@
+Author: Abhiroop Bhatnagar
+
+Falling ill is the last thing you would want on that god-forsaken island. You know a few herbs available on the island but they will work only in the initial stage of any illness. Therefore, you would want to test your pulse at regular intervals and you also want that process to be as fast and quick as possible.
+
+App: Heart Rate Monitor
+Link to app: https://f-droid.org/repository/browse/?fdfilter=heart&fdid=com.jwetherell.heart_rate_monitor
+Link to source code:  http://code.google.com/p/android-heart-rate-monitor/source/checkout
+Task: Hack the app such that it beeps once every hour. Whenever there is a beep, you have to put your finger in front of camera so that it can check your pulse(This is already built in the app). It should then create a log of that data and should sound a warning signal if the pulse is below 40.
