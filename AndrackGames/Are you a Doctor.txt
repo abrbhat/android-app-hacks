@@ -5,4 +5,4 @@ Falling ill is the last thing you would want on that god-forsaken island. You kn
 App: Heart Rate Monitor
 Link to app: https://f-droid.org/repository/browse/?fdfilter=heart&fdid=com.jwetherell.heart_rate_monitor
 Link to source code:  http://code.google.com/p/android-heart-rate-monitor/source/checkout
-Task: Hack the app such that it beeps once every hour. Whenever there is a beep, you have to put your finger in front of camera so that it can check your pulse(This is already built in the app). It should then create a log of that data and should sound a warning signal if the pulse is below 40.
+Task: Hack the app such that it beeps once every hour. Whenever there is a beep, you have to put your finger in front of camera so that it can check your pulse(This is already built in the app). It should then create a log of that data and the app should sound a warning signal if the pulse is below 40.
